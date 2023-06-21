@@ -1,0 +1,36 @@
+DOMAINE D'APPLICATION
+Ce document concerne comment effectuer un câblage RJ45. 
+RESPONSABILITES
+L’application de ce document est à titre personnel.
+RESPONSABILITES
+L’application de ce document est de la responsabilité des opérateurs
+La mise à jour de ce document est de la responsabilité du responsable Technique.
+QU'EST-CE QU'UN CABLE ETHERNET RJ45 ?
+Le cordon RJ45 ou câble réseau Ethernet est un câble RJ45 agrémenté de connecteurs RJ45 à ses extrémités. En effet, il comporte huit broches de connexions électriques. Le câble RJ45 existe en multibrin ou en monobrin. Le câble RJ45 multibrin possède, aux extrémités, des connecteurs mâles tandis que le câble monobrin est équipé de connecteurs femelles.
+Ces types de cordons existent sous différentes formes ; blindés (F/UTP), à double blindage (S/FTP) et non-blindés (UTP).
+Le cordon RJ45 permet de relier différents éléments d'un réseau informatique comme l'ordinateur, le modem etc.
+LES OUTILS UTILISES
+ 
+ 
+ Un câble F/UTP, catégorie 6 multibrin de la couleur de votre choix et de la longueur souhaitée. La catégorie F/UTP signifie que l'ensemble des paires torsadées possède un blindage par aluminium.
+ La pince à sertir qui vous sera utile pour sertir le câble
+ La pince coupante qui, comme son nom l'indique, vous aidera à couper les fils présents à l'intérieur du câble Ethernet RJ45 s'ils sont trop longs
+ Deux manchons de protection de diamètre 6 mm qui aideront à la protection du bout de votre connecteur RJ45
+ Deux connecteurs RJ45 blindés, cat. 6 qui comportent chacun 8 broches de connexions électriques, ils vont permettre de faire véhiculer des signaux électriques
+ 
+ un testeur de câble réseau et télécommunication pour câbles avec prises RJ45, RJ11, RJ12 et BNC qui vous permettra de tester les 8 fils du câble Ethernet RJ45, toutes les lumières doivent s'allumer, si une ou plusieurs LED ne s'allument pas, c'est que le câble est défectueux.
+ connecteur rj45 cat6a blinder.
+NORME DU CABLAGE A OU B
+la norme A ou B sont toutes les deux utilisées, pour un câble droit en europe il est couramment utilisé le B, donc ton câble droit doit être de chaque côté en norme B; et pour un câble croisé (pour relier deux PC directement qui n'est pas ton cas) tu dois avoir d'un côté la norme A et de l'autre la norme B.
+COMMENT FAIRE LE CABLAGE.
+Je vais effectuer le câblage en B
+ on va prendre le code couleur du B c’est-à-dire ici c’est ( de gauche à droite ) bleu/blanc, bleu, blanc/vert, vert.
+ (toujours de gauche à droite), marron, marron/blanc, orange, blanc/orange.
+Une fois les fils bien mis, couper ce qui dépasse au ras avec une pince coupante.
+ 
+Voici le résultat
+ 
+Je vais prendre le connecteur  
+Je clipse les 2 parties 
+On la referme et j’enroule le fil de terre autour de la partie métallique 
+Voilà le câblage est fait. Il faut faire la même chose à l’autre bout du câble.
